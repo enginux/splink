@@ -1,0 +1,5 @@
+unique_id,first_name,surname,date_of_birth,city,email,address
+5,jon,doe,1980-01-01,new york,jon.d@example.com,202 elm street
+6,alicia,NULL,1990-05-15,los angeles,alicia.s@example.com,303 cedar boulevard
+7,robert,brown,1985-07-20,chicago,robert.b@example.com,404 spruce street
+8,patrick,oconnor,1982-11-22,boston,patrick.oconnor@example.com,505 willow street
